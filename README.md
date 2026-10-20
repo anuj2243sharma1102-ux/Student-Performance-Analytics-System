@@ -1,6 +1,9 @@
 Student Performance Analytics System
+
 Developed by: Anuj Sharma
+
 Internship: Python with AI
+
 Organization: EWB EDU Private Limited (EWB Courses)
 
 1. Project Objective
@@ -12,6 +15,7 @@ NumPy: Numerical calculations and statistical analysis.
 Pandas: Loading, processing, sorting, and exporting student data.
 CSV: Storing the input dataset and generated results.
 Visual Studio Code: Development and execution environment.
+
 3. Dataset Description
 The project uses students.csv, which contains 20 sample student records.
 
@@ -40,6 +44,7 @@ Calculate class-level statistics, including average, highest average, and lowest
 Calculate subject-wise average marks and identify the best-performing subject.
 Sort students by average marks and display the top five performers.
 Export the processed student records to student_results.csv.
+
 5. Key Features
 Student-wise total and average marks calculation
 Automatic grade assignment
@@ -51,6 +56,7 @@ Subject-wise performance analysis
 Identification of the best-performing subject
 Top five performers based on average marks
 Automatic CSV report generation
+
 6. Grading and Pass/Fail Criteria
 Grades are assigned according to the student's average marks.
 
@@ -70,6 +76,7 @@ Marks in every subject must be at least 33.
 If either condition is not satisfied, the student is marked as Fail.
 
 7. Project Screenshots
+
 7.1 Program Output and Class Statistics
 <img width="1920" height="1080" alt="project-output 1 png" src="https://github.com/user-attachments/assets/8989d2d1-21aa-424c-b061-e1230f49b705" />
 
@@ -109,6 +116,7 @@ students.csv — Input student dataset.
 student_results.csv — Generated student results report.
 README.md — Project overview and instructions.
 Student_Performance_Analytics_Documentation_With_Screenshots.pdf — Detailed project documentation.
+
 10. Final Outcome
 The project successfully processes 20 sample student records and generates student-wise results, class-level statistics, subject-wise analysis, and a top-five performers report.
 
