@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,AI,Electronics,English,Attendance,Total,Average,Grade,Result
+S001,Rahul Sharma,CSE,85,78,91,82,88,92,424.0,84.8,A,Pass
+S002,Aman Verma,ECE,72,69,80,75,76,85,372.0,74.4,B,Pass
+S003,Priya Singh,CSE,92,95,89,90,94,96,460.0,92.0,A+,Pass
+S004,Rohit Kumar,ECE,65,70,68,72,74,78,349.0,69.8,C,Pass
+S005,Neha Gupta,IT,88,84,92,86,90,94,440.0,88.0,A,Pass
+S006,Vikas Patel,ECE,45,52,48,55,60,68,260.0,52.0,D,Pass
+S007,Anjali Jain,CSE,78,82,85,80,87,89,412.0,82.4,A,Pass
+S008,Karan Mehta,IT,33,42,38,45,50,65,208.0,41.6,F,Pass
+S009,Pooja Yadav,ECE,91,87,94,89,92,97,453.0,90.6,A+,Pass
+S010,Deepak Soni,CSE,56,61,58,63,65,72,303.0,60.6,C,Pass
+S011,Simran Kaur,IT,83,79,86,81,88,91,417.0,83.4,A,Pass
+S012,Arjun Tiwari,ECE,29,35,31,40,45,60,180.0,36.0,F,Fail
+S013,Kavita Rao,CSE,67,73,70,68,76,82,354.0,70.8,B,Pass
+S014,Mohit Sharma,IT,95,90,96,93,91,98,465.0,93.0,A+,Pass
+S015,Sneha Mishra,ECE,74,77,72,79,81,88,383.0,76.6,B,Pass
+S016,Varun Singh,CSE,38,44,42,36,49,70,209.0,41.8,F,Pass
+S017,Isha Verma,IT,86,88,84,90,87,95,435.0,87.0,A,Pass
+S018,Manish Gupta,ECE,59,55,62,58,64,75,298.0,59.6,D,Pass
+S019,Riya Patel,CSE,81,85,79,83,89,90,417.0,83.4,A,Pass
+S020,Abhishek Jain,IT,48,39,45,42,55,66,229.0,45.8,F,Pass
