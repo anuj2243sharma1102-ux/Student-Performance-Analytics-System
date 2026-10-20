@@ -120,13 +120,13 @@ The generated CSV report contains all student records with their calculated perf
 *Step 1: Clone the repository*
 
 bash
-git clone https://github.com/YashSharmaECE/student-performance-analytics.git
+git clone https://github.com/anuj2243sharma1102-ux/Student-Performance-Analytics-System
 
 
 *Step 2: Open the project directory*
 
 bash
-cd student-performance-analytics
+cd Student-Performance-Analytics
 
 
 *Step 3: Install the required libraries*
@@ -171,17 +171,11 @@ This project provided practical experience in:
 - Generating structured reports
 - Publishing a project on GitHub
 
-## 12. Project Documentation
+## 12. GitHub Repository
 
-The detailed documentation contains the project objective, dataset description, implementation, grading rules, output analysis, and actual program screenshots.
-
-[*View Project Documentation (PDF)*](Student_Performance_Analytics_Documentation_With_Screenshots.pdf)
-
-## 13. GitHub Repository
-
-[*Student Performance Analytics System — GitHub Repository*](https://github.com/YashSharmaECE/student-performance-analytics)
+[*Student Performance Analytics System — GitHub Repository*](https://github.com/anuj2243sharma1102-ux/Student-Performance-Analytics-System)
 
 ---
 
-*Developed by Yash Sharma*  
+*Developed by Anuj Sharma*  
 Python with AI Internship — EWB EDU Private Limited
