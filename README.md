@@ -90,10 +90,10 @@ Prerequisites: Python 3 must be installed on your system.
 
 Step 1: Clone the repository
 
-git clone https://github.com/YashSharmaECE/student-performance-analytics.git
+git clone (https://github.com/anuj2243sharma1102-ux/Student-Performance-Analytics-System)
 Step 2: Open the project directory
 
-cd student-performance-analytics
+cd Student-Performance-Analytics
 Step 3: Install the required libraries
 
 python -m pip install numpy pandas
@@ -125,13 +125,11 @@ Creating reusable functions
 Sorting and analyzing student records
 Generating structured reports
 Publishing a project on GitHub
-12. Project Documentation
-The detailed documentation contains the project objective, dataset description, implementation, grading rules, output analysis, and actual program screenshots.
 
-[View Project Documentation (PDF)](https://github.com/YashSharmaECE/student-performance-analytics/blob/main/Student%20Performance%20Analytics%20Documentation%20Yash%20Sharma.pdf
 
-13. GitHub Repository
+12. GitHub Repository
 Student Performance Analytics System — GitHub Repository
+https://github.com/anuj2243sharma1102-ux/Student-Performance-Analytics-System
 
-Developed by Yash Sharma
+Developed by Anuj Sharma
 Python with AI Internship — EWB EDU Private Limited
