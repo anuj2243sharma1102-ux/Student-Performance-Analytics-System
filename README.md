@@ -1,6 +1,6 @@
 # Student Performance Analytics System
 
-*Developed by:* Yash Sharma  
+*Developed by:* Anuj Sharma  
 *Internship:* Python with AI  
 *Organization:* EWB EDU Private Limited (EWB Courses)
 
@@ -89,19 +89,29 @@ If either condition is not satisfied, the student is marked as *Fail*.
 
 This screenshot shows the student-wise report, class average, highest and lowest averages, and pass/fail statistics.
 
-![Program Output](screenshots/project-output-1.png)
+<img width="1920" height="1080" alt="project-output 1 png" src="https://github.com/user-attachments/assets/2b759e4f-e526-48bd-8878-b981f5438ee8" />
+
 
 ### 7.2 Subject-wise Analysis and Top Performers
 
 This output displays the average marks of each subject, the best-performing subject, and the top five performers.
 
-![Subject Analysis and Top Performers](screenshots/project-output-2.png)
+<img width="1920" height="1080" alt="project-output 2 png" src="https://github.com/user-attachments/assets/89a2854f-5613-48b9-a3f1-c76f9726b93a" />
+
 
 ### 7.3 Generated Student Results
 
 The generated CSV report contains all student records with their calculated performance details.
 
-![Student Results](screenshots/student-results.png)
+<img width="1920" height="1080" alt="student-results png" src="https://github.com/user-attachments/assets/db32603f-e087-4b83-ad2d-50ab3a203384" />
+
+### 7.4 main.py Code screenshots
+
+<img width="1920" height="1080" alt="main-code 1 png" src="https://github.com/user-attachments/assets/f78e0aa5-5652-4174-9e4b-7dc0848249d6" />
+
+<img width="1920" height="1080" alt="main-code 2 png" src="https://github.com/user-attachments/assets/e1289bc0-a433-460b-a79a-82c3ec2dcd75" />
+
+<img width="1920" height="1080" alt="main-code 3 png" src="https://github.com/user-attachments/assets/f6b265f5-6230-48d1-bd71-18bed8dbbea1" />
 
 ## 8. How to Run the Project
 
