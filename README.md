@@ -69,7 +69,7 @@ The program displays a student performance report, class statistics, subject ave
 This project demonstrates Python fundamentals, functions, loops, conditions, NumPy numerical calculations, and Pandas data analysis.
 
 ## Author
-Yash Sharma
+Anuj Sharma
 
 ## GitHub Repository
 Add the repository URL here after uploading the project.
